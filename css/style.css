@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.fullproject{
+   
+    margin: auto;
+    width: 1100px;
+}
+.left{
+    display: flex;
+     
+}
+.l1{
+    width: 600px;
+    height: 500px;
+    line-height: 25px ;
+    background-color: rgba(38, 38, 255, 0.388);
+}
+.l1 h1{
+    font-size: 25px;
+    margin-left: 10px;
+}
+.l1 a{
+    font-size: 18px;
+    margin-left: 10px;
+}
+.personal{
+    margin: 15px 10px 0px 10px
+}
+.personal h2{
+    font-size: 20px;
+}
+table{
+    font-size: 18px;
+}
+ul{
+    margin: 10px 0px 0px 17px;
+}
+.r1{
+    padding: 0px 55px;
+    line-height: 25px;
+}
+.r1 h2{
+    font-size: 25px;
+    text-align: center;
+    justify-content: center;
+}
+.r1 p{
+    font-size: 18px;
+}
